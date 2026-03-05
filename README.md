@@ -55,7 +55,7 @@
 | 🦖 **Dinoverse Web Project** |
 | :--- |
 | **Status:** 🎓 Academic Project (โปรเจกต์ระหว่างเรียน) / 🔗 [View Website](https://roxxy013.github.io/Dinoverse/) • [GitHub Repo](https://github.com/roxxy013/Dinoverse) |
-| **Description:** <br>🇬🇧 Designed and developed "Dinoverse", a responsive website featuring structured navigation, an image gallery, and interactive user forms. Built primarily with HTML and CSS, strategically utilizing AI tools to streamline the coding process and optimize the UI design.<br><br>🇹🇭 พัฒนาเว็บไซต์ "Dinoverse" ด้วย HTML และ CSS โดยมีการจัดทำระบบแกลลอรีรูปภาพ ฟอร์มรับข้อมูล และแถบนำทาง (Navigation) ที่ใช้งานง่าย พร้อมประยุกต์ใช้ AI เข้ามาช่วยในการเขียนและตรวจสอบโค้ด เพื่อให้การจัดหน้าเว็บออกมาสวยงามและมีประสิทธิภาพสูงสุด |
+| **Description:** <br>🇬🇧 Developed the 'Dinoverse' website using HTML and CSS, featuring a 3D image gallery, dinosaur information, and an easy-to-use navigation bar. AI tools were also used to assist with writing and reviewing the code to ensure the website layout is clean, visually appealing, and highly efficient.<br><br>🇹🇭 พัฒนาเว็บไซต์ "Dinoverse" ด้วย HTML และ CSS โดยมีการจัดทำระบบแกลลอรีรูปภาพ3d ข้อมูลไดโนเสาร์ และแถบนำทาง (Navigation) ที่ใช้งานง่าย พร้อมประยุกต์ใช้ AI เข้ามาช่วยในการเขียนและตรวจสอบโค้ด เพื่อให้การจัดหน้าเว็บออกมาสวยงามและมีประสิทธิภาพสูงสุด |
 | `HTML` `CSS` `AI Tools` |
 
 <hr>
