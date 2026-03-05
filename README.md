@@ -1,49 +1,65 @@
-<h2 align="center">Building Web Apps with AI 🤖</h2>
+<h1 align="center">Hi there, I'm Champ! 👋</h1>
+
+<h3 align="center">
+  A 3rd-year Undergraduate Student passionate about AI & Development
+</h3>
 
 <p align="center">
-  <i>"Learning by doing. Shipping ideas fast."<br>
-  "เรียนรู้จากการลงมือทำ สร้างสรรค์ผลงานให้ไว"</i>
+  <i>"Leveraging AI to optimize workflows and build smart solutions."<br>
+  "ประยุกต์ใช้ AI เพื่อเพิ่มประสิทธิภาพการทำงานและสร้างสรรค์ผลงานให้ดียิ่งขึ้น"</i>
 </p>
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/EMAIL-CONNECT-EF5350?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/WEBSITE-PORTFOLIO-0288D1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=555555" alt="Website"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GITHUB-FOLLOW_ME-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"></a>
-</p>
-
-<hr>
-
-### 🧐 About Me (เกี่ยวกับผม)
-
-**Hey there! 👋 I'm Raven. (สวัสดีครับ ผมชื่อ "ราเวน")**
-
-🇬🇧 I build web apps. If a new tech pops up (like Gemini), I'm likely already figuring out how to integrate it. My main tech stack is HTML, JS, CSS, and AI APIs.
-
-🇹🇭 ผมชอบสร้างเว็บแอปพลิเคชัน ถ้ามีเทคโนโลยีใหม่ๆ (อย่าง Gemini) ผมมักจะรีบหาวิธีเอามาลองเล่นทันที ถนัดใช้ HTML, JS, CSS และเชื่อมต่อ API ครับ
-
-* 🐧 **Linux Enthusiast:** Customizing Pop!_OS & Zorin is my jam.
-  *(ชอบปรับแต่ง Linux ให้สวยและแรง)*
-* 🛠️ **The Multi-tasker:** Coder by day, Event Staff & Hardware Fixer by night.
-  *(สู้งานรอบด้าน กลางวันเขียนโค้ด กลางคืนลุยงานอีเวนต์/ซ่อมคอม)*
-* 📺 **Fun Fact:** Fuelled by Anime, Webtoons, and VTuber content.
-  *(ชอบอนิเมะ เว็บตูน และ VTubers ครับ!)*
-
-<hr>
-
-### 🛠 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux,ubuntu,windows" alt="Tech Stack Icons" />
-  <br><br>
-  <img src="https://img.shields.io/badge/AI_TOOL-GOOGLE_GEMINI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white&labelColor=555555" alt="Gemini">
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-View_Work-005571?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <hr>
 
-### 🚀 Featured Project (ผลงานแนะนำ)
+### 👨‍💻 About Me (เกี่ยวกับผม)
 
-| 🐱 **MeowGuru (AI Music Rec.)** |
+สวัสดีครับ ผมชื่อ **แชมป์** ปัจจุบันเป็นนักศึกษาชั้นปีที่ 3 ที่กำลังมองหาโอกาสในการฝึกงาน (Internship) เพื่อพัฒนาทักษะและเรียนรู้การทำงานในสภาพแวดล้อมจริง 
+
+ผมมีความสนใจในการพัฒนาเว็บไซต์และการจัดการข้อมูล โดยมีจุดเด่นคือ **การนำ AI มาประยุกต์ใช้ในการทำงาน (AI Prompting & Integration)** เพื่อช่วยลดระยะเวลาในการแก้ปัญหา ช่วยทบทวนโค้ด (Code Review) และเพิ่มประสิทธิภาพในการสร้างสรรค์ผลงานให้เกิดประโยชน์สูงสุดต่อโปรเจกต์ครับ
+
+* 🌱 **Currently looking for:** Internship opportunities (กำลังหาที่ฝึกงานครับ!)
+* 💻 **Knowledge Base:** Web Development (HTML, CSS) & Programming (Python, SQL)
+* 🤖 **Superpower:** Utilizing AI effectively to brainstorm, debug, and accelerate workflows.
+* ⚡ **Mindset:** พร้อมเรียนรู้เทคโนโลยีใหม่ๆ เสมอ และเชื่อว่าเครื่องมือที่ดีบวกกับความเข้าใจที่ถูกต้อง จะช่วยให้งานออกมาดีที่สุด
+
+<hr>
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Web Technologies:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,python,django,bootstrap,js" alt="Languages & Web Tech" />
+</p>
+
+**Database & Version Control:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sql,mysql,git,github" alt="Database & Tools" />
+</p>
+
+**AI & Productivity:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+</p>
+
+<hr>
+
+### 🚀 Highlight Projects (ผลงานที่ผ่านมา)
+
+| 📌 **Project Name / ชื่อโปรเจกต์** |
 | :--- |
-| **Status:** 🛠️ In Development (กำลังพัฒนา) / 🔗 [View Project](https://github.com/) |
-| 🇬🇧 A web app integrating **Gemini API** for smart music recommendations. Features a 3D Interactive Globe and Glassmorphism UI.<br><br>🇹🇭 เว็บแอปแนะนำเพลงอัจฉริยะที่ใช้ **AI (Gemini)** มาพร้อมฟีเจอร์ ลูกโลก 3D และดีไซน์กระจกใส (Glassmorphism) สุดล้ำ |
-| `HTML` `JavaScript` `Gemini API` `Three.js` |
+| **Status:** 🎓 Academic Project (โปรเจกต์ระหว่างเรียน) / 🔗 [Link to GitHub Repo](#) |
+| **Description:** <br>🇬🇧 Developed a web application integrating front-end design and back-end logic. Applied SQL for database management and utilized AI to assist in debugging and optimizing the code structure.<br><br>🇹🇭 พัฒนาเว็บแอปพลิเคชันโดยใช้ความรู้ด้าน Web Development และเชื่อมต่อฐานข้อมูลด้วย SQL รวมถึงการสร้าง Stored Procedures โดยใช้ AI เข้ามาช่วยในการวางโครงสร้างและแก้บั๊ก ทำให้โปรเจกต์เสร็จสมบูรณ์และมีประสิทธิภาพมากขึ้น |
+| `HTML` `CSS` `Python` `SQL` `AI Tools` |
+
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Champ's GitHub Stats" />
+</p>
