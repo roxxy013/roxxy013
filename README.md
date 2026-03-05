@@ -26,14 +26,15 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Web Technologies:**
+**Languages, Design & Web Technologies:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,python,django,bootstrap,js" alt="Languages & Web Tech" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,django,vscode,ps,figma" alt="Languages, Web & Design Tech" />
 </p>
 
-**Database & Version Control:**
+**Database, Server & Version Control:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sql,mysql,git,github" alt="Database & Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
+  <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="48" height="48" alt="XAMPP" />
 </p>
 
 **AI & Productivity:**
