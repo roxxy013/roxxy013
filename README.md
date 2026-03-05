@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Champ! 👋</h1>
+<h1 align="center">
+  Hi there, I'm Champ! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35px" alt="waving_hand">
+</h1>
 
 <h3 align="center">
   A 3rd-year Undergraduate Student passionate about AI & Development
@@ -9,7 +11,10 @@
   "ประยุกต์ใช้ AI เพื่อเพิ่มประสิทธิภาพการทำงานและสร้างสรรค์ผลงานให้ดียิ่งขึ้น"</i>
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roxxy013&style=flat-square&color=8E75B2&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 
 ### 👨‍💻 About Me (เกี่ยวกับผม)
 
