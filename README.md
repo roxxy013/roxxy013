@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Champ! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35px" alt="waving_hand">
+  <h1 align="center">Hi there, I'm Champ! 👋</h1>
 </h1>
 
 <h3 align="center">
