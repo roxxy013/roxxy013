@@ -9,12 +9,6 @@
   "ประยุกต์ใช้ AI เพื่อเพิ่มประสิทธิภาพการทำงานและสร้างสรรค์ผลงานให้ดียิ่งขึ้น"</i>
 </p>
 
-<p align="center">
-  <a href="mailto:giant59168g@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-View_Work-005571?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-</p>
-
 <hr>
 
 ### 👨‍💻 About Me (เกี่ยวกับผม)
