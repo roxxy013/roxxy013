@@ -52,11 +52,11 @@
 
 ### 🚀 Highlight Projects (ผลงานที่ผ่านมา)
 
-| 📌 **Project Name / ชื่อโปรเจกต์** |
+| 🦖 **Dinoverse Web Project** |
 | :--- |
-| **Status:** 🎓 Academic Project (โปรเจกต์ระหว่างเรียน) / 🔗 [Link to GitHub Repo](#) |
-| **Description:** <br>🇬🇧 Developed a web application integrating front-end design and back-end logic. Applied SQL for database management and utilized AI to assist in debugging and optimizing the code structure.<br><br>🇹🇭 พัฒนาเว็บแอปพลิเคชันโดยใช้ความรู้ด้าน Web Development และเชื่อมต่อฐานข้อมูลด้วย SQL รวมถึงการสร้าง Stored Procedures โดยใช้ AI เข้ามาช่วยในการวางโครงสร้างและแก้บั๊ก ทำให้โปรเจกต์เสร็จสมบูรณ์และมีประสิทธิภาพมากขึ้น |
-| `HTML` `CSS` `Python` `SQL` `AI Tools` |
+| **Status:** 🎓 Academic Project (โปรเจกต์ระหว่างเรียน) / 🔗 [View Website](https://roxxy013.github.io/Dinoverse/) • [GitHub Repo](https://github.com/roxxy013/Dinoverse) |
+| **Description:** <br>🇬🇧 Designed and developed "Dinoverse", a responsive website featuring structured navigation, an image gallery, and interactive user forms. Built primarily with HTML and CSS, strategically utilizing AI tools to streamline the coding process and optimize the UI design.<br><br>🇹🇭 พัฒนาเว็บไซต์ "Dinoverse" ด้วย HTML และ CSS โดยมีการจัดทำระบบแกลลอรีรูปภาพ ฟอร์มรับข้อมูล และแถบนำทาง (Navigation) ที่ใช้งานง่าย พร้อมประยุกต์ใช้ AI เข้ามาช่วยในการเขียนและตรวจสอบโค้ด เพื่อให้การจัดหน้าเว็บออกมาสวยงามและมีประสิทธิภาพสูงสุด |
+| `HTML` `CSS` `AI Tools` |
 
 <hr>
 
