@@ -1,6 +1,4 @@
-<h1 align="center">
-  <h1 align="center">Hi there, I'm Champ! 👋</h1>
-</h1>
+<h1 align="center">Hi there, I'm Champ! 👋</h1>
 
 <h3 align="center">
   A 3rd-year Undergraduate Student passionate about AI & Development
@@ -15,6 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=roxxy013&style=flat-square&color=8E75B2&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
+<hr>
 
 ### 👨‍💻 About Me (เกี่ยวกับผม)
 
@@ -55,7 +54,7 @@
 | 🦖 **Dinoverse Web Project** |
 | :--- |
 | **Status:** 🎓 Academic Project (โปรเจกต์ระหว่างเรียน) / 🔗 [View Website](https://roxxy013.github.io/Dinoverse/) • [GitHub Repo](https://github.com/roxxy013/Dinoverse) |
-| **Description:** <br>🇬🇧 Developed the 'Dinoverse' website using HTML and CSS, featuring a 3D image gallery, dinosaur information, and an easy-to-use navigation bar. AI tools were also used to assist with writing and reviewing the code to ensure the website layout is clean, visually appealing, and highly efficient.<br><br>🇹🇭 พัฒนาเว็บไซต์ "Dinoverse" ด้วย HTML และ CSS โดยมีการจัดทำระบบแกลลอรีรูปภาพ3d ข้อมูลไดโนเสาร์ และแถบนำทาง (Navigation) ที่ใช้งานง่าย พร้อมประยุกต์ใช้ AI เข้ามาช่วยในการเขียนและตรวจสอบโค้ด เพื่อให้การจัดหน้าเว็บออกมาสวยงามและมีประสิทธิภาพสูงสุด |
+| **Description:** <br>🇬🇧 Developed the 'Dinoverse' website using HTML and CSS, featuring a 3D image gallery, dinosaur information, and an easy-to-use navigation bar. AI tools were also used to assist with writing and reviewing the code to ensure the website layout is clean, visually appealing, and highly efficient.<br><br>🇹🇭 พัฒนาเว็บไซต์ "Dinoverse" ด้วย HTML และ CSS โดยมีการจัดทำระบบแกลลอรีรูปภาพ 3D ข้อมูลไดโนเสาร์ และแถบนำทาง (Navigation) ที่ใช้งานง่าย พร้อมประยุกต์ใช้ AI เข้ามาช่วยในการเขียนและตรวจสอบโค้ด เพื่อให้การจัดหน้าเว็บออกมาสวยงามและมีประสิทธิภาพสูงสุด |
 | `HTML` `CSS` `AI Tools` |
 
 <br>
@@ -67,6 +66,19 @@
 | `HTML` `CSS` `AI Tools` |
 
 <hr>
+
+### 🏆 Certificates & Achievements (เกียรติบัตรและผลงาน)
+
+<p align="center">
+  <img src="https://i.postimg.cc/NGSfpLh3/0002.jpg" width="48%" alt="Certificate 1">
+  <img src="https://i.postimg.cc/L4w6NhdG/IMG_6951.jpg" width="48%" alt="Certificate 2">
+  <img src="https://i.postimg.cc/fWpTBkns/photo.png" width="48%" alt="Certificate 3">
+  <img src="https://i.postimg.cc/VspLD5y3/ส_งออกประกาศน_ยบ_ตรออนไลน_2025_07_10_12_33_page_0001.jpg" width="48%" alt="Certificate 4">
+  <img src="https://i.postimg.cc/QNwx0VGL/ส_งออกประกาศน_ยบ_ตรออนไลน_2025_11_12_09_20_page_0001.jpg" width="48%" alt="Certificate 5">
+</p>
+<p align="center">
+  <i>(ผลงานและการอบรมที่ผ่านมา)</i>
+</p>
 
 <hr>
 
